@@ -1,2 +1,2 @@
 # LogicBuilding
-8.	WAP to accept a String and Convert the case of each alphabet present in it.(eq- JaVa---jAvA)
+9.	WAP to accept  word and check if it is palindrome
