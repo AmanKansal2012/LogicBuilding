@@ -1,2 +1,2 @@
 # LogicBuilding
-10.	WAP of SubString (AMAR SINGH--- R SINGH)
+20.	WAP to accept a sentence and display the words having length is greater than 5
