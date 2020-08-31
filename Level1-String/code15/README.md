@@ -1,2 +1,2 @@
 # LogicBuilding
-10.	WAP of SubString (AMAR SINGH--- R SINGH)
+15.	WAP of  Trim                    “          hi      ”                    ----- “hi”.
