@@ -1,2 +1,2 @@
 # LogicBuilding
-10.	WAP of SubString (AMAR SINGH--- R SINGH)
+11.	WAP to accept a word and convert it to piglatin form(trouble --- oubletray)
